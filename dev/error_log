@@ -1,0 +1,12 @@
+[05-Oct-2013 22:53:17 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:48 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:48 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:48 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:52 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:53 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[05-Oct-2013 22:53:53 UTC] PHP Fatal error:  Call to undefined function tc__f() in /home3/starlawn/public_html/dev/wp-content/themes/customizr-child/index.php on line 11
+[06-Oct-2013 00:17:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/starlawn/public_html/dev/wp-content/themes/customizr/parts/class-footer-footer_main.php on line 176
+[06-Oct-2013 00:19:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/starlawn/public_html/dev/wp-content/themes/customizr/parts/class-footer-footer_main.php on line 173
+[06-Oct-2013 00:19:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/starlawn/public_html/dev/wp-content/themes/customizr/parts/class-footer-footer_main.php on line 173
+[06-Oct-2013 00:19:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/starlawn/public_html/dev/wp-content/themes/customizr/parts/class-footer-footer_main.php on line 173
+[06-Oct-2013 00:19:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home3/starlawn/public_html/dev/wp-content/themes/customizr/parts/class-footer-footer_main.php on line 173
